@@ -1,12 +1,12 @@
 # Site settings
-title: Sławomir K. Tadeja
+title: Sławomir Konrad Tadeja
 description: Sławomir's personal space in the Web
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Sławomir K. Tadeja
-user_description: PhD Student in VR-tech with emphasis on visual analytics
+username: Sławomir Konrad Tadeja
+user_description: PhD Student in VR-tech at University of Cambridge
 user_title: PhD Student
 email: slawomir.tadeja@alumni.cern
 #twitter_username: lorem_ipsum
